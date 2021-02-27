@@ -1,9 +1,9 @@
-# readme
+# ReadME
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
-it is cool 
+Generating a readme file using node.js
 
 ## Table of Contents 
 
@@ -29,7 +29,7 @@ npm i
 
 ## Usage
 
-it is cool 
+It is useful
 
 ## License
 
@@ -37,7 +37,7 @@ This project is licensed under the MIT license.
   
 ## Contributing
 
-nothing 
+It would be helpful
 
 ## Tests
 
@@ -49,5 +49,5 @@ npm test
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at abrahamfraijo@gmail.com,. You can find more of my work at [fraijo17](https://github.com/fraijo17/).
+If you have any questions about the repo, open an issue or contact me directly at abrahamfraijo17@gmail.com. You can find more of my work at [Fraijo17](https://github.com/Fraijo17/).
 
